@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-
-** movadancer / movedancer ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm a student from Chongqing University. I'm an undergraduate student majoring in Computer Science  at HongShen Honors College of Chongqing University, class of 2022.
 
 - 🔭 I’m currently working on computer system, CXL menmory and LLM!
 - 🌱 I’m currently learning CUDA, Quartus II, ...
