@@ -4,7 +4,7 @@ I'm a student from Chongqing University. I'm an undergraduate student majoring i
 
 - 🔭 I’m currently working on computer system, CXL menmory and LLM!
 - 🌱 I’m currently learning CUDA, Quartus II, ...
-- 👯 I’m looking to collaborate on system learning， especially about FPGA!
+- 👯 I’m looking to collaborate on computer system, FPGA, Compilation optimization, especially about Software and hardware synergy!
 - 💬 Ask me about anything you want!😄
 - 📫 How to reach me: cquzhuyunzhe@163.com
 - 😄 Pronouns: 🐖🐖(eating and sleeping are very good~)
