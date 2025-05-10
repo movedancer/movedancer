@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Cloud!
 
 I'm a student from Chongqing University. I'm an undergraduate student majoring in Computer Science  at HongShen Honors College of Chongqing University, class of 2022.
 
