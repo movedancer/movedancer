@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Ping-Pong Zhu🏓🏓🏓!
 ---
-I'm an undergraduate student majoring in Computer Science at HongShen Honors College of Chongqing University, class of 2022！
+An Undergraduate of Computer Science from @chongqinguniversity
 ---
 - 🔭 I’m currently working on Computer System, CXL memory and LLM!
 - 🌱 I’m currently learning CUDA, System Verilog. I am trying to use Quartus II instead of Vivado(little hard😭😭😭)...
