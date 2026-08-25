@@ -3,7 +3,6 @@
 An Undergraduate of Computer Science from @chongqinguniversity
 ---
 - 🔭 I’m currently working on Computer System, CXL memory and LLM!
-- 🌱 I’m currently learning CUDA, System Verilog. I am trying to use Quartus II instead of Vivado(little hard😭😭😭)...
 - 👯 I’m looking to collaborate on computer system, FPGA, Compilation optimization, especially about Software and hardware synergy!
 - 💬 Ask me about anything you want!😄
 - 📫 How to reach me: cquzhuyunzhe@163.com
